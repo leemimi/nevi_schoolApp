@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{523DE7D8-5966-070C-A200-E412E2936D51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/waypoint.cs">
+    <Files>
+      <File FileName="Assets/waypoint.cs" Line="63" Column="21" />
+      <File FileName="Assets/Popup_Script.cs" />
+      <File FileName="Assets/Cafe_btn_script.cs" Line="23" Column="1" />
+      <File FileName="Assets/text_test_01.cs" Line="18" Column="18" />
+      <File FileName="Assets/text_text_02.cs" Line="14" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="navi" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="waypoint.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0cd2f6dd-595e-435b-8c7c-2c178a5dba3b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
